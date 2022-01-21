@@ -1,0 +1,78 @@
+
+Div Center
+d-flex align-item-center justify-content-center
+
+Padding Shortcut py,px //py means y axis and px means x axix.
+fa-2x // means Icon big
+justify-content-center  // its work for content 
+
+.................IMG............................
+img-fluid       //its work for responsive.
+img-thumbnail  //its work for look like thumbnail
+rounded-circle //its work for look like profile picture
+d-block //means display block; m-auto //m means margin // its help to center your image.
+.................Text............................
+text-left
+text-center
+text-right
+text-justify
+text-sm-left
+text-sm-center
+text-sm-right
+text-lowercase
+text-uppercase
+text-capitalize
+text-decoration-none
+text-monospace
+text-nowrap
+.................Font............................
+font-weight-bold
+font-weight-bloder
+font-weight-normal
+font-weight-light
+font-weight-lighter
+font-italic
+small
+
+
+..........................blockquote..................
+blockquote-footer //its work for text look like special
+
+..........................Button..................
+
+........Button_Style
+btn-primary btn-secondary btn-success btn-info btn-warning btn-danger btn-light btn-dark btn-link
+btn-outline-primary  btn-outline-success ...........
+
+........Button_Group
+btn-group
+btn-group-lg  ........ lg/md/sm/
+btn-group-vertical
+btn-group (nasted)
+btn-toolbar
+........Button_Modifires
+btn-lg    ........ lg/md/sm/  //button size
+btn-block
+active/disabled-button
+checkbox-as-button
+radio-as-button
+
+..........................UnOrderList(ul) and listItem(li)..................
+ul class.
+	list-group
+li class.
+	list-group-item
+	
+..........................pagination
+ul class
+	pagination
+li class
+	page-item
+a class
+	page-link
+	
+..........................Collapse..................	
+<button data-toggle="textDiv Class name" data-target="#textDiv Id name">
+
+
+

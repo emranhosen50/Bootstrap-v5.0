@@ -1,0 +1,117 @@
+.ProfileBOX {
+    /* margin-left: 400px; */
+    width: 30%;
+    height: 30%;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+    /* margin-bottom: 45px; */
+    margin-top: 170px;
+    height: 710px;
+    width: 379px;
+    background-color: #141310;
+    /* padding: 0px;
+    padding-bottom: 20px; */
+    border-radius: 35px;
+    -moz-border-radius: 35px;
+    -webkit-border-radius: 35px;
+}
+
+.ProfileImgBOX {
+    height: 170px;
+    width: 261px;
+    background-color: #c51414;
+    padding: 0px;
+    padding-bottom: 20px;
+    border-radius: 30px;
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 30px;
+}
+
+.Exp_In {
+    background-color: #1E1E1E;
+    height: 30px;
+    width: 130px;
+    margin: auto;
+    /* margin-top: 15px; */
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.SocialM_DIV {
+    display: flex;
+}
+
+.ComonDIVForSocial {
+    height: 40px;
+    width: 45px;
+    background-color: #1E1E1E;
+    padding: 0px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; */
+    margin-left: 15px
+}
+
+.ComonDIVForProtfolio {
+    /* height: 30px;
+    width: 38px; */
+    /*   background-color: #1E1E1E;*/
+    padding: 0px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    /* margin-left: 15px;
+    margin-top: -54px; */
+}
+
+.box_for_Protfolio {
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+
+.ICONForEXP {
+    background-color: #1E1E1E;
+    width: 40px;
+    height: 40px;
+    border-radius: 7px;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+}
+
+#ProfileImgBOX {
+    margin-top: -80px;
+    margin-left: 55px;
+    height: 170px;
+    width: 261px;
+    background-color: #1E1E1E;
+    padding: 0px;
+    /* padding-bottom: 20px; */
+    border-radius: 30px;
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 30px;
+}
+
+#Details {
+    margin-top: 170px;
+    width: 95%;
+    height: 70%;
+    /* margin-bottom: 45px;
+    margin-top: 40px; */
+    background-color: #141310;
+    padding: 10px;
+    padding-bottom: 20px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+}
