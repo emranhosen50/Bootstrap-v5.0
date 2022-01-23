@@ -1,0 +1,52 @@
+.ClientImage-size {
+    width: 90px;
+    height: 90px;
+}
+
+.navbar-toggler {
+    background-color: brown;
+    border: none;
+    padding: 10px 6px;
+}
+
+.THover:hover {
+    color: crimson;
+}
+
+.btn-outline-success1 :hover {
+    /* color: linear-gradient(90deg, rgba(152, 58, 152, 1) 0%, rgba(8, 8, 142, 1) 100%); */
+    background-color: #391992;
+}
+
+.profileImage {
+    max-width: 100%;
+    height: auto;
+    border-radius: 30px;
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 30px;
+}
+
+.imageTags {
+    object-fit: cover;
+    width: 50px;
+    height: 60px;
+    margin-top: -20px;
+    margin-left: -5px;
+}
+
+.footerButton {
+    border: 2px solid #311691;
+    background-color: #311691;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    transition-duration: 0.4s;
+}
+
+.footerButton:hover {
+    border: 2px solid #4c26d8;
+    background-color: #31169100;
+    color: white;
+}
