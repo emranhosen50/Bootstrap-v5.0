@@ -70,3 +70,11 @@
 .titleText {
     font-size: 30px;
 }
+
+.TextLight {
+    color: #A1A09F;
+}
+
+.TextInDetails {
+    margin-top: -5px;
+}
