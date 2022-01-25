@@ -120,6 +120,29 @@
     background-color: #1E1E1E;
 }
 
+.lineForUp {
+    height: 17px;
+    width: 100%;
+    background-color: salmon;
+}
+
+.lineForDown {
+    height: 17px;
+    width: 100%;
+    background-color: rgb(7, 96, 107);
+}
+
+.ProgressAndText {
+    width: 100%;
+}
+
+.knowDiv {
+    background-color: #313131;
+    border-radius: 6px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+}
+
 #Details {
     margin-top: 170px;
     background-color: #141310;

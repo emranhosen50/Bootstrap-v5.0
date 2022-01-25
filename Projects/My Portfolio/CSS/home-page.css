@@ -50,3 +50,37 @@
     background-color: #31169100;
     color: white;
 }
+
+.progress {
+    background-color: salmon;
+    justify-content: flex-start;
+    border-radius: 100px;
+    align-items: center;
+    position: relative;
+    padding: 0 5px;
+    display: flex;
+    height: 7px;
+}
+
+.progress-value {
+    animation: load 3s normal forwards;
+    box-shadow: 0 10px 40px -10px #fff;
+    border-radius: 100px;
+    background-color: rgb(143, 18, 226);
+    height: 50px;
+    margin-left: -13px;
+    justify-content: flex-start;
+}
+
+.marginStyle {
+    margin-left: 340px;
+}
+
+@keyframes load {
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 68%;
+    }
+}
